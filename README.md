@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PingCAP
 - 👯 I’m looking to collaborate on [pingcap/cdc](https://github.com/pingcap/ticdc), a change data capture system for TiDB
+- 😄 Follow my blog https://maxshuang.github.io/

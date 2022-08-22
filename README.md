@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on PingCAP
 - 👯 I’m looking to collaborate on [pingcap/cdc](https://github.com/pingcap/ticdc), a change data capture system for TiDB
 - 🌱 I'm continuously working and learning on solving problems of complex system
-- 🌱 I'm aiming at creating a system to connect more people and enpower people to be creative
+- 🌱 I'm thinking a distribution system like the harmonyOS, which can unify all device and extend the ability of calculation seamless.
 - 😄 Follow my blog https://maxshuang.github.io/

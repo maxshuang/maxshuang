@@ -2,7 +2,6 @@
 
 <!--
 **maxshuang/maxshuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PingCAP
@@ -15,5 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm continuously working and learning on solving problems of complex system
-- 😄 Follow my blog https://maxshuang.github.io/
+Hi, everyone.
+- 🔭 I've been a software engineer for about five years, specializing in backend system development.
+- A former Tencent engineer
+- A former PingCAP engineer
+- 🌱 I've been focusing on and working on distributed systems, complex systems, databases, operating systems, etc.
+- 👯 In my daily life, I'm passionate about weightlifting, outdoor activities, and reading a variety of books, including sociology, economics, history, fiction novels, etc.
+- 😄 Follow my blog https://maxshuang.github.io

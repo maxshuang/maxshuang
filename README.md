@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, everyone 👋
 
 <!--
 **maxshuang/maxshuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, everyone.
 - 🔭 I've been a software engineer for about five years, specializing in backend system development.
 - A former Tencent engineer
 - A former PingCAP engineer

@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I've been a software engineer for about five years, specializing in backend system development.
+- I’m currently working at SafetyCulture
 - A former Tencent engineer
 - A former PingCAP engineer
 - 🌱 I've been focusing on and working on distributed systems, complex systems, databases, operating systems, etc.
